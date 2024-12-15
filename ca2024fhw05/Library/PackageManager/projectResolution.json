@@ -8,12 +8,20 @@
     "C:\\Users\\Lab1323\\Desktop\\computer animate\\ca2024fhw05\\ca2024fhw05\\Packages\\packages-lock.json"
   ],
   "outputs": {
-    "com.unity.collab-proxy@2.6.0": {
+    "com.unity.ai.navigation@2.0.5": {
+      "name": "com.unity.ai.navigation",
+      "resolvedPath": "C:\\Users\\Lab1323\\Desktop\\computer animate\\ca2024fhw05\\ca2024fhw05\\Library\\PackageCache\\com.unity.ai.navigation",
+      "fingerprint": "9f76b145f0a8dd734ff2a4877f7f7edb83b7f62c",
+      "editorCompatibility": "2023.2.0a18",
+      "version": "2.0.5",
+      "source": "registry"
+    },
+    "com.unity.collab-proxy@2.5.2": {
       "name": "com.unity.collab-proxy",
       "resolvedPath": "C:\\Users\\Lab1323\\Desktop\\computer animate\\ca2024fhw05\\ca2024fhw05\\Library\\PackageCache\\com.unity.collab-proxy",
-      "fingerprint": "001b54a8988a14785c8e209d6c788bb15f9e58cf",
-      "editorCompatibility": "2021.3.0f1",
-      "version": "2.6.0",
+      "fingerprint": "da7e55b87e08569f31766e7cabc37bc033c9c7f9",
+      "editorCompatibility": "2020.3.48f1",
+      "version": "2.5.2",
       "source": "registry"
     },
     "com.unity.feature.development@1.0.2": {
@@ -23,12 +31,28 @@
       "version": "1.0.2",
       "source": "builtin"
     },
-    "com.unity.inputsystem@1.11.2": {
-      "name": "com.unity.inputsystem",
-      "resolvedPath": "C:\\Users\\Lab1323\\Desktop\\computer animate\\ca2024fhw05\\ca2024fhw05\\Library\\PackageCache\\com.unity.inputsystem",
-      "fingerprint": "3c4a97c3950fef77960981e0fe90613de6e512ee",
-      "editorCompatibility": "2019.4.0a1",
-      "version": "1.11.2",
+    "com.unity.ide.rider@3.0.31": {
+      "name": "com.unity.ide.rider",
+      "resolvedPath": "C:\\Users\\Lab1323\\Desktop\\computer animate\\ca2024fhw05\\ca2024fhw05\\Library\\PackageCache\\com.unity.ide.rider",
+      "fingerprint": "7921be93db40ec070fcb01ed82d1c3df1bbdddcd",
+      "editorCompatibility": "2019.2.6f1",
+      "version": "3.0.31",
+      "source": "registry"
+    },
+    "com.unity.ide.visualstudio@2.0.22": {
+      "name": "com.unity.ide.visualstudio",
+      "resolvedPath": "C:\\Users\\Lab1323\\Desktop\\computer animate\\ca2024fhw05\\ca2024fhw05\\Library\\PackageCache\\com.unity.ide.visualstudio",
+      "fingerprint": "8140e851d83e922ca2021b04a89519de94ebe38c",
+      "editorCompatibility": "2019.4.25f1",
+      "version": "2.0.22",
+      "source": "registry"
+    },
+    "com.unity.ide.vscode@1.2.5": {
+      "name": "com.unity.ide.vscode",
+      "resolvedPath": "C:\\Users\\Lab1323\\Desktop\\computer animate\\ca2024fhw05\\ca2024fhw05\\Library\\PackageCache\\com.unity.ide.vscode",
+      "fingerprint": "82e68656b7bdc5da8beb1fbaf1bb4ecf13456d51",
+      "editorCompatibility": "2019.2.0a12",
+      "version": "1.2.5",
       "source": "registry"
     },
     "com.unity.multiplayer.center@1.0.0": {
@@ -38,6 +62,14 @@
       "editorCompatibility": "6000.0.0a1",
       "version": "1.0.0",
       "source": "builtin"
+    },
+    "com.unity.test-framework@1.4.5": {
+      "name": "com.unity.test-framework",
+      "resolvedPath": "C:\\Users\\Lab1323\\Desktop\\computer animate\\ca2024fhw05\\ca2024fhw05\\Library\\PackageCache\\com.unity.test-framework",
+      "fingerprint": "0a21eb82d95cd331643a1e0ce4e8e9a5f18954c8",
+      "editorCompatibility": "2019.4.0a10",
+      "version": "1.4.5",
+      "source": "registry"
     },
     "com.unity.timeline@1.8.7": {
       "name": "com.unity.timeline",
@@ -267,20 +299,12 @@
       "version": "1.0.0",
       "source": "builtin"
     },
-    "com.unity.ide.visualstudio@2.0.22": {
-      "name": "com.unity.ide.visualstudio",
-      "resolvedPath": "C:\\Users\\Lab1323\\Desktop\\computer animate\\ca2024fhw05\\ca2024fhw05\\Library\\PackageCache\\com.unity.ide.visualstudio",
-      "fingerprint": "8140e851d83e922ca2021b04a89519de94ebe38c",
-      "editorCompatibility": "2019.4.25f1",
-      "version": "2.0.22",
-      "source": "registry"
-    },
-    "com.unity.ide.rider@3.0.31": {
-      "name": "com.unity.ide.rider",
-      "resolvedPath": "C:\\Users\\Lab1323\\Desktop\\computer animate\\ca2024fhw05\\ca2024fhw05\\Library\\PackageCache\\com.unity.ide.rider",
-      "fingerprint": "7921be93db40ec070fcb01ed82d1c3df1bbdddcd",
-      "editorCompatibility": "2019.2.6f1",
-      "version": "3.0.31",
+    "com.unity.ext.nunit@2.0.5": {
+      "name": "com.unity.ext.nunit",
+      "resolvedPath": "C:\\Users\\Lab1323\\Desktop\\computer animate\\ca2024fhw05\\ca2024fhw05\\Library\\PackageCache\\com.unity.ext.nunit",
+      "fingerprint": "60ef35ffd3cd5e2f5c8887a4a4ca6148854cd092",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "2.0.5",
       "source": "registry"
     },
     "com.unity.editorcoroutines@1.0.0": {
@@ -299,14 +323,6 @@
       "version": "1.2.2",
       "source": "registry"
     },
-    "com.unity.test-framework@1.4.5": {
-      "name": "com.unity.test-framework",
-      "resolvedPath": "C:\\Users\\Lab1323\\Desktop\\computer animate\\ca2024fhw05\\ca2024fhw05\\Library\\PackageCache\\com.unity.test-framework",
-      "fingerprint": "0a21eb82d95cd331643a1e0ce4e8e9a5f18954c8",
-      "editorCompatibility": "2019.4.0a10",
-      "version": "1.4.5",
-      "source": "registry"
-    },
     "com.unity.testtools.codecoverage@1.2.6": {
       "name": "com.unity.testtools.codecoverage",
       "resolvedPath": "C:\\Users\\Lab1323\\Desktop\\computer animate\\ca2024fhw05\\ca2024fhw05\\Library\\PackageCache\\com.unity.testtools.codecoverage",
@@ -321,14 +337,6 @@
       "fingerprint": "56a930affa1e4462d3595b5c19a1c2a4bf2015d2",
       "editorCompatibility": "2018.4.0a1",
       "version": "2.0.1",
-      "source": "registry"
-    },
-    "com.unity.ext.nunit@2.0.5": {
-      "name": "com.unity.ext.nunit",
-      "resolvedPath": "C:\\Users\\Lab1323\\Desktop\\computer animate\\ca2024fhw05\\ca2024fhw05\\Library\\PackageCache\\com.unity.ext.nunit",
-      "fingerprint": "60ef35ffd3cd5e2f5c8887a4a4ca6148854cd092",
-      "editorCompatibility": "2019.4.0a1",
-      "version": "2.0.5",
       "source": "registry"
     }
   }
